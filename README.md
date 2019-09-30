@@ -5,10 +5,10 @@ Dinacon was a fantastic unparalleled experience that pushed me beyond my limits.
 
 While at Dinacon, I ended up completing 4 projects, 1 of which was a collaboration:
 
-..* Firefly Fornication Foyer
-..* Morpho Mixtape
-..* Trash Cake
-..* Biocyborg (collaboration)
+* Firefly Fornication Foyer
+* Morpho Mixtape
+* Trash Cake
+* Biocyborg (collaboration)
 
 ![Fully assembled F3]()
 
@@ -24,14 +24,14 @@ Fireflies are drawn in by the mating flashes of both male and female Photinus py
 It is my hope that this kind of device can help repopulate firefly species and build back some of the joy and wonder I experienced as a kid watching the woods light up with love.
 
 ### Materials
-..* 500mL+ water bottle
-..* x2 [yellow-green LEDs](https://www.amazon.com/Transparent-Lighting-Electronics-Components-Emitting/dp/B01AUI4VVA) (510 - 590nm)
-..* x2 [220 ohm resistors](https://www.amazon.com/Yohii-Metal-Oxide-Resistor-50pcs/dp/B07C17B5NX)
-..* x1 [arduino](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/)
-..* x1 [breadboard](https://www.amazon.com/Qunqi-point-Experiment-Breadboard-5-5×8-2×0-85cm/dp/B0135IQ0ZC/) *PCB coming soon*
-..* x1 [LiPo Battery](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/)
-..* x1 [Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/)
-..* x1 String
+* 500mL+ water bottle
+* x2 [yellow-green LEDs](https://www.amazon.com/Transparent-Lighting-Electronics-Components-Emitting/dp/B01AUI4VVA) (510 - 590nm)
+* x2 [220 ohm resistors](https://www.amazon.com/Yohii-Metal-Oxide-Resistor-50pcs/dp/B07C17B5NX)
+* x1 [arduino](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/)
+* x1 [breadboard](https://www.amazon.com/Qunqi-point-Experiment-Breadboard-5-5×8-2×0-85cm/dp/B0135IQ0ZC/) *PCB coming soon*
+* x1 [LiPo Battery](https://www.amazon.com/Anker-PowerCore-Ultra-Compact-High-Speed-Technology/dp/B01CU1EC6Y/)
+* x1 [Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/)
+* x1 String
 
 
 ### How to assemble

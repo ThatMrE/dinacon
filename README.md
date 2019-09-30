@@ -10,7 +10,7 @@ While at Dinacon, I ended up completing 4 projects, 1 of which was a collaborati
 * Trashcake
 * Biocyborg (collaboration)
 
-![Fully assembled F3]()
+![Fully assembled F3](https://github.com/ThatMrE/dinacon/blob/master/Firefly%20Fornication%20Foyer%20assets/IMG_20190824_183901.jpg)
 
 ## Firefly Fornication Foyer
 The Firefly Fornication Foyer for fabulous philandering fiends physically fucking freely in a funky frenzy; fundamentally unfazed and unfrazzeled not frowning, fawning forcefully for fuzzbox and phallic fetishes. F^22  
@@ -23,7 +23,7 @@ Fireflies are drawn in by the mating flashes of both male and female Photinus py
 
 It is my hope that this kind of device can help repopulate firefly species and build back some of the joy and wonder I experienced as a kid watching the woods light up with love.
 
-![F3 Materials]()
+![F3 Materials](https://github.com/ThatMrE/dinacon/blob/master/Firefly%20Fornication%20Foyer%20assets/IMG_20190826_143727.jpg)
 
 ### Materials
 * 500mL+ water bottle
@@ -35,7 +35,7 @@ It is my hope that this kind of device can help repopulate firefly species and b
 * x1 [Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/)
 * x1 String
 
-![Assembly]()
+![Assembly](https://github.com/ThatMrE/dinacon/blob/master/Firefly%20Fornication%20Foyer%20assets/IMG_20190826_143812.jpg)
 
 ### How to assemble
 1. Cut off the top of the water bottle
@@ -44,7 +44,7 @@ It is my hope that this kind of device can help repopulate firefly species and b
 4. Put the entire assembly into the water bottle
 5. Decorate and hang up
 
-![F3 Hanging Up]()
+![F3 Hanging Up](https://github.com/ThatMrE/dinacon/blob/master/Firefly%20Fornication%20Foyer%20assets/IMG_20190823_214338.jpg)
 
 ### How to use
 1. Set up in the foyer in a secluded spot far from prying eyes
@@ -54,23 +54,23 @@ It is my hope that this kind of device can help repopulate firefly species and b
 5. *************** EXPLICIT CONTENT ***************
 6. After a wild night in a safe consensual space, let them loose to take that "walk of shame" with pride
 
-![Morpho Mixtape]()
+![Morpho Mixtape](https://github.com/ThatMrE/dinacon/blob/master/Morpho%20Mixtape%20assets/IMG_20190826_141057.jpg)
 
 ## Morpho Mixtape
 
-![Fully assembled Morpho Mixtape]()
+![Assembly of Morpho Mixtape](https://github.com/ThatMrE/dinacon/blob/master/Morpho%20Mixtape%20assets/IMG_20190826_135941.jpg)
 
 ### How to assemble
 
-![Trashcake]()
+![Trashcake](https://github.com/ThatMrE/dinacon/blob/master/Trash%20Cake%20assets/IMG_20190825_123125.jpg)
 
 ## Trashcake
 
-![Trashcake Trip]()
+![Trashcake Trip](https://github.com/ThatMrE/dinacon/blob/master/Trash%20Cake%20assets/IMG_20190825_135541.jpg)
 
 ### How to practice
 
-![Biocyborg]()
+![Biocyborg](https://github.com/ThatMrE/dinacon/blob/master/Biocyborg%20collaboration%20assets/IMG_20190824_120629.jpg)
 
 ## Biocyborg
 

@@ -33,7 +33,6 @@ It is my hope that this kind of device can help repopulate firefly species and b
 * x1 [Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/)
 * x1 String
 
-
 ### How to assemble
 
 
@@ -42,9 +41,13 @@ It is my hope that this kind of device can help repopulate firefly species and b
 
 ## Morpho Mixtape
 
+### How to assemble
 
 ## Trash Cake
 
+### How to practice
 
 ## Biocyborg
+
+### How to assemble
 

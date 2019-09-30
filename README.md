@@ -7,7 +7,7 @@ While at Dinacon, I ended up completing 4 projects, 1 of which was a collaborati
 
 * Firefly Fornication Foyer
 * Morpho Mixtape
-* Trash Cake
+* Trashcake
 * Biocyborg (collaboration)
 
 ![Fully assembled F3]()
@@ -23,6 +23,8 @@ Fireflies are drawn in by the mating flashes of both male and female Photinus py
 
 It is my hope that this kind of device can help repopulate firefly species and build back some of the joy and wonder I experienced as a kid watching the woods light up with love.
 
+![F3 Materials]()
+
 ### Materials
 * 500mL+ water bottle
 * x2 [yellow-green LEDs](https://www.amazon.com/Transparent-Lighting-Electronics-Components-Emitting/dp/B01AUI4VVA) (510 - 590nm)
@@ -33,12 +35,16 @@ It is my hope that this kind of device can help repopulate firefly species and b
 * x1 [Wires](https://www.amazon.com/StrivedayTM-Flexible-Silicone-electronic-electrics/dp/B01KQ2JNLI/)
 * x1 String
 
+![Assembly]()
+
 ### How to assemble
 1. Cut off the top of the water bottle
 2. Wire up the arduino to the LEDs
 3. Plug the arduino into the LiPo battery
 4. Put the entire assembly into the water bottle
 5. Decorate and hang up
+
+![F3 Hanging Up]()
 
 ### How to use
 1. Set up in the foyer in a secluded spot far from prying eyes
@@ -48,16 +54,23 @@ It is my hope that this kind of device can help repopulate firefly species and b
 5. *************** EXPLICIT CONTENT ***************
 6. After a wild night in a safe consensual space, let them loose to take that "walk of shame" with pride
 
+![Morpho Mixtape]()
+
 ## Morpho Mixtape
 
+![Fully assembled Morpho Mixtape]()
 
 ### How to assemble
 
-## Trash Cake
+![Trashcake]()
+
+## Trashcake
+
+![Trashcake Trip]()
 
 ### How to practice
 
-## Biocyborg
+![Biocyborg]()
 
-### How to assemble
+## Biocyborg
 

@@ -34,12 +34,22 @@ It is my hope that this kind of device can help repopulate firefly species and b
 * x1 String
 
 ### How to assemble
-
+1. Cut off the top of the water bottle
+2. Wire up the arduino to the LEDs
+3. Plug the arduino into the LiPo battery
+4. Put the entire assembly into the water bottle
+5. Decorate and hang up
 
 ### How to use
-
+1. Set up in the foyer in a secluded spot far from prying eyes
+2. Turn it on. Oh yeah.
+3. The LEDs flash in the mating pattern of male and female flies. The bug brothel is now open for business.
+4. Fireflies fly in the bottom, entering the orifice :)
+5. *************** EXPLICIT CONTENT ***************
+6. After a wild night in a safe consensual space, let them loose to take that "walk of shame" with pride
 
 ## Morpho Mixtape
+
 
 ### How to assemble
 
